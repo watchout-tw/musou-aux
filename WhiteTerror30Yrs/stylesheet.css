@@ -3,8 +3,8 @@
 body, .pdb-root {
   font-family: "Helvetica Neue", "Helvetica", sans-serif;
   font-size: 16px;
-  background: white;
-  color: black;
+  background: black;
+  color: white;
 }
 .pdb-root {
   padding: 1rem 1rem 8rem;
