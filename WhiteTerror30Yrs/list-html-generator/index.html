@@ -1,0 +1,21 @@
+<meta charset="utf-8"/>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="./data.js"></script>
+<script>
+
+const semicolon = '；'
+
+$(function() {
+  var $list = $('<ol class="names d-flex flex-wrap">').appendTo('body')
+  for(let item of list) {
+    $item = $('<li>').appendTo($list)
+    $('<div class="date">').html(item.date).appendTo($item)
+    $('<div class="name">').html(item.name + semicolon + item.gender + semicolon + item.age).appendTo($item)
+    $('<div class="description">').html(item.description).appendTo($item)
+  }
+})
+
+</script>
