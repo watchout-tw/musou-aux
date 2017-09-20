@@ -1,10 +1,12 @@
 {
   "people": {
+    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/people.png",
     "title": "群眾支持",
     "join": "https://watchout-tw.github.io/musou-aux/musou.tw/join.png",
     "thanks": "https://watchout-tw.github.io/musou-aux/musou.tw/thanks.png",
   },
   "enterprises": {
+    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/castle.png",
     "title": "企業支持",
     "list": [
       {
@@ -34,6 +36,7 @@
     ]
   },
   "editorialIndependence": {
+    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/attention.png",
     "title": "編輯獨立宣言",
     "content": "我們唯有在編輯獨立不會被破壞的條件之下，才會接受企業支持。支持《國會無雙》或沃草的企業，對《國會無雙》或沃草產出的內容，沒有任何干涉權力。",
     "action": "閱讀完整內容",
