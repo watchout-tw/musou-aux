@@ -3,7 +3,8 @@
     "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/people.png",
     "title": "群眾支持",
     "join": "https://watchout-tw.github.io/musou-aux/musou.tw/join.png",
-    "thanks": "https://watchout-tw.github.io/musou-aux/musou.tw/thanks.png"
+    "thanks": "https://watchout-tw.github.io/musou-aux/musou.tw/thanks.png",
+    "link": "https://watchout.tw/#support"
   },
   "enterprises": {
     "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/castle.png",
