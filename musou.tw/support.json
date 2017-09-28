@@ -24,7 +24,7 @@
         "image": "https://watchout-tw.github.io/musou-aux/musou.tw/filler.png",
         "title": "你的企業名稱",
         "description": "企業的強大力量，也能對公民社會產生正面的影響。",
-        "link": "https://google.com/"
+        "link": "#"
       },
       {
         "id": "sample-2",
@@ -32,7 +32,7 @@
         "image": "https://watchout-tw.github.io/musou-aux/musou.tw/filler.png",
         "title": "你的企業名稱",
         "description": "想要支持《國會無雙》及沃草嗎？歡迎與我們聯絡：info@watchout.tw。",
-        "link": "https://google.com/"
+        "link": "#"
       }
     ]
   },
