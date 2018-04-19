@@ -1,19 +1,19 @@
 {
   "people": {
-    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/people.png",
+    "icon": "https://aux.musou.watchout.tw/musou.tw/emoji/people.png",
     "title": "群眾支持",
-    "join": "https://watchout-tw.github.io/musou-aux/musou.tw/join.png",
-    "thanks": "https://watchout-tw.github.io/musou-aux/musou.tw/thanks.png",
+    "join": "https://aux.musou.watchout.tw/musou.tw/join.png",
+    "thanks": "https://aux.musou.watchout.tw/musou.tw/thanks.png",
     "link": "https://watchout.tw/#support"
   },
   "enterprises": {
-    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/castle.png",
+    "icon": "https://aux.musou.watchout.tw/musou.tw/emoji/castle.png",
     "title": "企業支持",
     "list": [
       {
         "id": "taiwan-optical-platform",
         "status": "active",
-        "image": "https://watchout-tw.github.io/musou-aux/musou.tw/enterprises/taiwan-optical-platform.png",
+        "image": "https://aux.musou.watchout.tw/musou.tw/enterprises/taiwan-optical-platform.png",
         "title": "台灣數位光訊科技股份有限公司",
         "description": "簡稱「台數科集團」，目前為全國第四大之多系統經營者，朝全方位的4C整合者成長中。",
         "link": "http://portal.topmso.com.tw/Front/News#/List/newsID=02d8e4c2acb3440d8816099fb609795e?page=1"
@@ -21,7 +21,7 @@
       {
         "id": "sample-1",
         "status": "inactive",
-        "image": "https://watchout-tw.github.io/musou-aux/musou.tw/filler.png",
+        "image": "https://aux.musou.watchout.tw/musou.tw/filler.png",
         "title": "你的企業名稱",
         "description": "企業的強大力量，也能對公民社會產生正面的影響。",
         "link": "#"
@@ -29,7 +29,7 @@
       {
         "id": "sample-2",
         "status": "inactive",
-        "image": "https://watchout-tw.github.io/musou-aux/musou.tw/filler.png",
+        "image": "https://aux.musou.watchout.tw/musou.tw/filler.png",
         "title": "你的企業名稱",
         "description": "想要支持《國會無雙》及沃草嗎？歡迎與我們聯絡：info@watchout.tw。",
         "link": "#"
@@ -37,7 +37,7 @@
     ]
   },
   "editorialIndependence": {
-    "icon": "https://watchout-tw.github.io/musou-aux/musou.tw/emoji/attention.png",
+    "icon": "https://aux.musou.watchout.tw/musou.tw/emoji/attention.png",
     "title": "編輯獨立宣言",
     "content": "我們唯有在編輯獨立不會被破壞的條件之下，才會接受企業支持。支持《國會無雙》或沃草的企業，對《國會無雙》或沃草產出的內容，沒有任何干涉權力。",
     "action": "閱讀完整內容",
